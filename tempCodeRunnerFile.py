@@ -1,0 +1,1 @@
+book_instance.update("DEF","Saniya",2200,100,"Malayalam",4)
